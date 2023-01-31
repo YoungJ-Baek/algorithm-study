@@ -1,6 +1,6 @@
 /**
  * @file q15650.cpp
- * @author your name (you@domain.com)
+ * @author YoungJ-Baek (qordudwls1@gmail.com)
  * @brief solution for BOJ #15650, https://www.acmicpc.net/problem/15650
  * @version 0.1
  * @date 2023-01-25
